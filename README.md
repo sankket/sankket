@@ -1,11 +1,19 @@
 # Hello There 👋
 
-My name is Sanket godbole and I am a recent Information Technology graduate from Government College of Engineering, Aurangabad. I love working on projects and applications where I can see it have a positive impact in people. Currently I am a Software Engineer Intern at kanthaka, a startup company focused on bettering one's mental health.
+My name is Sanket godbole and I am a recent Information Technology graduate from Government College of Engineering, Aurangabad. I love working on projects and applications where I can see it have a positive impact in people. Currently I am a Software Engineer Intern at kanthaka, a startup company.
+
+## Blurb about me
 
 - 🔭 I’m currently working on doing various problems on gfg, interviewbit to better my skills and working of algorithms.
+
 - 🌱 I’m currently learning more about Application developement and machine learning models and its deployment & Solving problems with Codes.
-- 💬 Ask me about projects, Undergraduate Researchs and for Coffee :)
-- 📫 How to reach me: sanket.godbole31@gmail.com or linkedIn
+
+- 💬 Ask me about projects, Undergraduate Research and for Coffee :)
+
+
+
+### Contact
+- 📫 How to reach me: sanket.godbole31@gmail.com or [linkedIn] - (https://www.linkedin.com/in/sanket-godbole-b6503813a/)
 
 
 
