@@ -10,7 +10,9 @@ My name is Sanket godbole and I am a recent Information Technology graduate from
 
 - 💬 Ask me about projects, Undergraduate Research and for Coffee :)
 
-- 🧑‍💻 Technical Skills - python, java, C, Data Structures and Algorithms, Deep Learning, DBMS, AWS and Salseforce, Web Developement.
+- 👨‍💻 Technical Skills - python, java, C, Data Structures and Algorithms, Deep Learning, DBMS, AWS and Salseforce, Web Developement.
+
+- ⚡ Quote - 
 
 
 ### Contact
