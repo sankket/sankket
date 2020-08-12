@@ -13,7 +13,7 @@ My name is Sanket godbole and I am a recent Information Technology graduate from
 
 
 ### Contact
-- 📫 How to reach me: sanket.godbole31@gmail.com or [linkedIn]-(https://www.linkedin.com/in/sanket-godbole-b6503813a/)
+- 📫 How to reach me: sanket.godbole31@gmail.com or [linkedIn](https://www.linkedin.com/in/sanket-godbole-b6503813a/)
 
 
 
