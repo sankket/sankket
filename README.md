@@ -12,7 +12,7 @@ My name is Sanket godbole and I am a recent Information Technology graduate from
 
 - 👨‍💻 Technical Skills - python, java, C, Data Structures and Algorithms, Deep Learning, DBMS, AWS and Salseforce, Web Developement.
 
-- ⚡ Quote - 
+- ⚡ Quote - It isn't where you came from. It's where you're going that counts - Ella Fitzgerald 
 
 
 ### Contact
