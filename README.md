@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There 👋
+
+My name is Sanket godbole and I am a recent Information Technology graduate from Government College of Engineering, Aurangabad. I love working on projects and applications where I can see it have a positive impact in people. Currently I am a Software Engineer Intern at kanthaka, a startup company focused on bettering one's mental health.
 
 <!--
 **sankket/sankket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
