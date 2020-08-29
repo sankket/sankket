@@ -1,6 +1,6 @@
 # Hello World 👋
 
-My name is Sanket Godbole and I am a Information Technology Graduate from Government College of Engineering, Aurangabad. I love working on projects and applications where I can see it have a positive impact on people.
+I am  Sanket Godbole and I am a Information Technology Graduate from Government College of Engineering, Aurangabad. I love working on projects and applications where I can see it have a positive impact on people.
 
 ## Blurb about me 
 
