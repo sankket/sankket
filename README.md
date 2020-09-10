@@ -4,11 +4,11 @@ I am  Sanket Godbole and I am a Information Technology Graduate from Government 
 
 ## Blurb about me 
 
-- 🔭 I’m currently working on doing various problems on gfg, interviewbit to better my skills and working of algorithms.
+- 🔭 I’m currently working on data science and machine learning problems and solving various problems on gfg, interviewbit and Leetcode to enhance my skills and understand working of algorithms.
 
 - 🌱 I’m currently learning more about Application developement and machine learning models and its deployment & Solving problems with Codes.
 
-- 💬 Ask me about projects, Undergraduate Research and for Coffee :)
+- 💬 Ask me about projects, Undergraduate Research and writing Research paper and for Coffee ofcourse 😉
 
 - 💻 Technical Skills - python, java, C, Data Structures and Algorithms, Deep Learning, DBMS, AWS, Web Developement and Linux. 
 
