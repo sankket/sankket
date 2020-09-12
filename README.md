@@ -12,7 +12,7 @@ I am  Sanket Godbole and I am a Information Technology Graduate from Government 
 
 - 💻 Technical Skills - python, java, C, Data Structures and Algorithms, Deep Learning, DBMS, AWS, Web Developement and Linux. 
 
-- ⚡ Quote - It isn't where you came from. It's where you're going that counts - Ella Fitzgerald 
+- ⚡ Quote - "It isn't where you came from. It's where you're going that counts" - Ella Fitzgerald 
 
 
 ### Contact
