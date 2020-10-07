@@ -8,7 +8,7 @@ I am  Sanket Godbole and I am a Information Technology Graduate from Government 
 
 - 🌱 I’m currently learning more about Application developement and machine learning models and its deployment & Solving problems with Codes.
 
-- 💬 Ask me about projects, Undergraduate Research and writing Research paper and for Coffee ofcourse 😉
+- 💬 Ask me about projects, Undergraduate Research and writing Research paper and for Coffee ofcourse 😉  
 
 - 💻 Technical Skills - python, java, C, Data Structures and Algorithms, Deep Learning, DBMS, AWS, Web Developement and Linux. 
 
