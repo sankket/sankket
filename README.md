@@ -12,7 +12,8 @@ I am  Sanket Godbole and I am a Information Technology Graduate from Government 
 
 - 💻 Technical Skills - python, java, C#,javascript,Jquery,ASP.NET MVC,Web API Data Structures and Algorithms,Machine Learning, Deep Learning, DBMS, AWS,and Linux. 
 
-- ⚡ Quote - "It isn't where you came from. It's where you're going that counts" - Ella Fitzgerald 
+- ⚡ Quote - " Great things never come from comfort zones." - Ella Fitzgerald 
+
 
 
 ### Contact
