@@ -10,7 +10,7 @@ I am  Sanket Godbole and I am a Information Technology Graduate from Government 
 
 - 💬 Ask me about projects, Undergraduate Research and writing Research paper and for Coffee of course 😉  
 
-- 💻 Technical Skills - python, java, C#,javascript,Jquery,ASP.NET MVC,Web API Data Structures and Algorithms,Machine Learning, Deep Learning, DBMS, AWS , Terraform ,and Linux. 
+- 💻 Technical Skills - python, java, C#,javascript,Jquery,ASP.NET MVC,Web API Data Structures and Algorithms,Machine Learning, Deep Learning, DBMS, AWS , Terraform and Linux. 
 
 - ⚡ Quote - " Great things never come from comfort zones." - Ella Fitzgerald 
 
