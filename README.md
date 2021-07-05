@@ -5,7 +5,7 @@ I have aws developer associate certification and Microsoft certified Azure Funda
 
 ## Blurb about me 
 
-- 🔭 I’m currently working as Software Engineer in cloud domain and also working on  data science and machine learning problems and solving various problems on gfg, interviewbit and Leetcode to enhance my skills and understand working of algorithms.
+- 🔭 I’m currently working as Software Engineer in cloud Manufacturing domain and also working on  data science and machine learning problems and solving various problems on gfg, interviewbit and Leetcode to enhance my skills and understand working of algorithms.
 
 - 🌱 I’m currently learning more about Application developement and machine learning models and its deployment & Solving problems with Codes.
 
