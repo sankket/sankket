@@ -11,7 +11,7 @@ I have aws developer associate certification and Microsoft certified Azure Funda
 
 - 💬 Ask me about projects, Undergraduate Research and writing Research paper and for Coffee of course 😉  
 
-- 💻 Technical Skills - python, java, C#, javascript, Jquery, ASP.NET MVC, Web API, Kendo UI, Asp.net, Git, HTML5, Data Structures and Algorithms, Machine Learning, Deep Learning, DBMS, AWS, Docker, Terraform and Linux. 
+- 💻 Technical Skills -Azure, AWS, python, java, C#, javascript, Jquery, ASP.NET MVC, Web API, Kendo UI, Asp.net, Git, HTML5, Data Structures and Algorithms, Machine Learning, Deep Learning, DBMS, Docker, Terraform and Linux. 
 
 - ⚡ Quote - " Great things never come from comfort zones." - Ella Fitzgerald 
 
