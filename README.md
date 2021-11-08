@@ -1,7 +1,7 @@
 # Hello World 👋
 
 I am  Sanket Godbole and I am a Information Technology Graduate from Government College of Engineering, Aurangabad and IT Working Professional. I love working on projects and applications where I can see it have a positive impact on Society.
-I have aws developer associate certification and Microsoft certified Azure Fundamentals Certification.  
+I have aws developer associate certification and Microsoft certified Azure Fundamentals Certification, AZ303- Azure Technology Architect.  
 
 ## Blurb about me 
 
